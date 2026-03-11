@@ -1,0 +1,80 @@
+name: Contribution Leaderboard
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  leaderboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
+      - name: Collect contributions
+        env:
+          USER: ${{ github.repository_owner }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: Bearer $TOKEN" \
+          https://api.github.com/users/$USER/repos?per_page=100 > repos.json
+
+          echo "{}" > totals.json
+
+          for repo in $(jq -r '.[].name' repos.json); do
+            curl -s -H "Authorization: Bearer $TOKEN" \
+            https://api.github.com/repos/$USER/$repo/contributors > contributors.json
+
+            jq -c '.[]' contributors.json | while read c; do
+              login=$(echo $c | jq -r '.login')
+              commits=$(echo $c | jq -r '.contributions')
+
+              current=$(jq -r --arg login "$login" '.[$login] // 0' totals.json)
+
+              new=$((current + commits))
+
+              jq --arg login "$login" --argjson new $new \
+              '.[$login]=$new' totals.json > tmp.json && mv tmp.json totals.json
+            done
+          done
+
+      - name: Generate leaderboard
+        run: |
+          echo "## 🏆 Contribution Leaderboard" > leaderboard.md
+          echo "" >> leaderboard.md
+          echo "| Rank | User | Commits |" >> leaderboard.md
+          echo "|------|------|--------|" >> leaderboard.md
+
+          jq -r 'to_entries | sort_by(-.value) | .[] | "\(.key) \(.value)"' totals.json \
+          | nl -w1 -s' ' \
+          | while read rank user commits; do
+              echo "| $rank | @$user | $commits |" >> leaderboard.md
+            done
+
+      - name: Update README
+        run: |
+          if grep -q "<!-- CONTRIBUTIONS:START -->" README.md; then
+            awk '/<!-- CONTRIBUTIONS:START -->/{print;system("cat leaderboard.md");skip=1;next}/<!-- CONTRIBUTIONS:END -->/{skip=0} !skip' README.md > README.new
+            mv README.new README.md
+          else
+            echo "" >> README.md
+            echo "<!-- CONTRIBUTIONS:START -->" >> README.md
+            cat leaderboard.md >> README.md
+            echo "<!-- CONTRIBUTIONS:END -->" >> README.md
+          fi
+
+      - name: Commit
+        run: |
+          git config user.name "leaderboard-bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update contribution leaderboard" || echo "No changes"
+          git push
