@@ -1,0 +1,60 @@
+[submodule "Bit"]
+	path = Bit
+	url = https://github.com/bit10-101010/Bit.git
+[submodule "bit10-101010"]
+	path = bit10-101010
+	url = https://github.com/bit10-101010/bit10-101010.git
+[submodule "action-gh-release"]
+	path = action-gh-release
+	url = https://github.com/bit10-101010/action-gh-release.git
+[submodule "include-what-you-use"]
+	path = include-what-you-use
+	url = https://github.com/bit10-101010/include-what-you-use.git
+[submodule "bittest"]
+	path = bittest
+	url = https://github.com/bit10-101010/bittest.git
+[submodule "clang-format-action"]
+	path = clang-format-action
+	url = https://github.com/bit10-101010/clang-format-action.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/bit10-101010/docs.git
+[submodule "nnue-pytorch"]
+	path = nnue-pytorch
+	url = https://github.com/bit10-101010/nnue-pytorch.git
+[submodule "fastchess"]
+	path = fastchess
+	url = https://github.com/bit10-101010/fastchess.git
+[submodule "networks"]
+	path = networks
+	url = https://github.com/bit10-101010/networks.git
+[submodule "setup-gcc"]
+	path = setup-gcc
+	url = https://github.com/bit10-101010/setup-gcc.git
+[submodule "docker-bittest"]
+	path = docker-bittest
+	url = https://github.com/bit10-101010/docker-bittest.git
+[submodule "python-chess"]
+	path = python-chess
+	url = https://github.com/bit10-101010/python-chess.git
+[submodule "bit-web"]
+	path = bit-web
+	url = https://github.com/bit10-101010/bit-web.git
+[submodule "WDL_model"]
+	path = WDL_model
+	url = https://github.com/bit10-101010/WDL_model.git
+[submodule "books"]
+	path = books
+	url = https://github.com/bit10-101010/books.git
+[submodule "setup-sde"]
+	path = setup-sde
+	url = https://github.com/bit10-101010/setup-sde.git
+[submodule "bit-wiki-bot"]
+	path = bit-wiki-bot
+	url = https://github.com/bit10-101010/bit-wiki-bot.git
+[submodule "incbin"]
+	path = incbin
+	url = https://github.com/bit10-101010/incbin.git
+[submodule "actions-comment-pull-request"]
+	path = actions-comment-pull-request
+	url = https://github.com/bit10-101010/actions-comment-pull-request.git
