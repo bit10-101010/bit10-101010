@@ -35,11 +35,11 @@
 | 29 | @vsapsai | 107 |
 | 30 | @VoyagerOne | 103 |
 | 31 | @dav1312 | 99 |
-| 32 | @thollander | 86 |
-| 33 | @actions-user | 82 |
+| 32 | @actions-user | 97 |
+| 33 | @thollander | 86 |
 | 34 | @JugglerX | 81 |
-| 35 | @graphitemaster | 79 |
-| 36 | @bit10-101010 | 78 |
+| 35 | @bit10-101010 | 80 |
+| 36 | @graphitemaster | 79 |
 | 37 | @Mk-Chan | 71 |
 | 38 | @daniel-monroe | 70 |
 | 39 | @PedanticHacker | 68 |
