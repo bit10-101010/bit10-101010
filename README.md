@@ -30,8 +30,8 @@
 | 24 | @xu-shawn | 184 |
 | 25 | @linrock | 172 |
 | 26 | @gahtan-syarif | 169 |
-| 27 | @peregrineshahin | 146 |
-| 28 | @actions-user | 118 |
+| 27 | @actions-user | 149 |
+| 28 | @peregrineshahin | 146 |
 | 29 | @locutus2 | 114 |
 | 30 | @MarkZH | 112 |
 | 31 | @vsapsai | 107 |
@@ -45,7 +45,7 @@
 | 39 | @PedanticHacker | 68 |
 | 40 | @chenrui333 | 67 |
 | 41 | @Rocky640 | 62 |
-| 42 | @bit10-101010 | 59 |
+| 42 | @bit10-101010 | 60 |
 | 43 | @petarpetrovt | 59 |
 | 44 | @egor-tensin | 56 |
 | 45 | @joergoster | 51 |
