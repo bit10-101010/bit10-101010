@@ -28,9 +28,9 @@
 | 22 | @tomtor | 197 |
 | 23 | @robertnurnberg | 195 |
 | 24 | @xu-shawn | 184 |
-| 25 | @linrock | 172 |
-| 26 | @gahtan-syarif | 169 |
-| 27 | @actions-user | 149 |
+| 25 | @actions-user | 180 |
+| 26 | @linrock | 172 |
+| 27 | @gahtan-syarif | 169 |
 | 28 | @peregrineshahin | 146 |
 | 29 | @locutus2 | 114 |
 | 30 | @MarkZH | 112 |
@@ -45,7 +45,7 @@
 | 39 | @PedanticHacker | 68 |
 | 40 | @chenrui333 | 67 |
 | 41 | @Rocky640 | 62 |
-| 42 | @bit10-101010 | 60 |
+| 42 | @bit10-101010 | 61 |
 | 43 | @petarpetrovt | 59 |
 | 44 | @egor-tensin | 56 |
 | 45 | @joergoster | 51 |
