@@ -22,11 +22,11 @@
 | 16 | @jidicula | 237 |
 | 17 | @bolshakov-a | 216 |
 | 18 | @Vizvezdenec | 213 |
-| 19 | @FauziAkram | 208 |
-| 20 | @softprops | 204 |
-| 21 | @snicolet | 203 |
-| 22 | @tomtor | 197 |
-| 23 | @actions-user | 195 |
+| 19 | @actions-user | 212 |
+| 20 | @FauziAkram | 208 |
+| 21 | @softprops | 204 |
+| 22 | @snicolet | 203 |
+| 23 | @tomtor | 197 |
 | 24 | @robertnurnberg | 195 |
 | 25 | @xu-shawn | 184 |
 | 26 | @linrock | 172 |
