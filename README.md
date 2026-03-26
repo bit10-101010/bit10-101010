@@ -20,9 +20,9 @@
 | 14 | @zamar | 271 |
 | 15 | @s-0-u-l-z | 269 |
 | 16 | @jidicula | 237 |
-| 17 | @bolshakov-a | 216 |
-| 18 | @Vizvezdenec | 213 |
-| 19 | @actions-user | 212 |
+| 17 | @actions-user | 227 |
+| 18 | @bolshakov-a | 216 |
+| 19 | @Vizvezdenec | 213 |
 | 20 | @FauziAkram | 208 |
 | 21 | @softprops | 204 |
 | 22 | @snicolet | 203 |
