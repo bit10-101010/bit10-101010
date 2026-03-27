@@ -19,8 +19,8 @@
 | 13 | @dependabot[bot] | 297 |
 | 14 | @zamar | 271 |
 | 15 | @s-0-u-l-z | 269 |
-| 16 | @jidicula | 237 |
-| 17 | @actions-user | 227 |
+| 16 | @actions-user | 244 |
+| 17 | @jidicula | 237 |
 | 18 | @bolshakov-a | 216 |
 | 19 | @Vizvezdenec | 213 |
 | 20 | @FauziAkram | 208 |
