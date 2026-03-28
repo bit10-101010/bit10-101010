@@ -19,7 +19,7 @@
 | 13 | @dependabot[bot] | 297 |
 | 14 | @zamar | 271 |
 | 15 | @s-0-u-l-z | 269 |
-| 16 | @actions-user | 244 |
+| 16 | @actions-user | 261 |
 | 17 | @jidicula | 237 |
 | 18 | @bolshakov-a | 216 |
 | 19 | @Vizvezdenec | 213 |
@@ -44,8 +44,8 @@
 | 38 | @daniel-monroe | 70 |
 | 39 | @PedanticHacker | 68 |
 | 40 | @chenrui333 | 67 |
-| 41 | @Rocky640 | 62 |
-| 42 | @bit10-101010 | 61 |
+| 41 | @bit10-101010 | 63 |
+| 42 | @Rocky640 | 62 |
 | 43 | @petarpetrovt | 59 |
 | 44 | @egor-tensin | 56 |
 | 45 | @joergoster | 51 |
