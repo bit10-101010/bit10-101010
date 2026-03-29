@@ -17,9 +17,9 @@
 | 11 | @michiguel | 343 |
 | 12 | @Sopel97 | 300 |
 | 13 | @dependabot[bot] | 297 |
-| 14 | @zamar | 271 |
-| 15 | @s-0-u-l-z | 269 |
-| 16 | @actions-user | 261 |
+| 14 | @actions-user | 282 |
+| 15 | @zamar | 271 |
+| 16 | @s-0-u-l-z | 269 |
 | 17 | @jidicula | 237 |
 | 18 | @bolshakov-a | 216 |
 | 19 | @Vizvezdenec | 213 |
@@ -42,9 +42,9 @@
 | 36 | @graphitemaster | 79 |
 | 37 | @Mk-Chan | 71 |
 | 38 | @daniel-monroe | 70 |
-| 39 | @PedanticHacker | 68 |
-| 40 | @chenrui333 | 67 |
-| 41 | @bit10-101010 | 63 |
+| 39 | @bit10-101010 | 69 |
+| 40 | @PedanticHacker | 68 |
+| 41 | @chenrui333 | 67 |
 | 42 | @Rocky640 | 62 |
 | 43 | @petarpetrovt | 59 |
 | 44 | @egor-tensin | 56 |
