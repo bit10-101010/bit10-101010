@@ -15,9 +15,9 @@
 | 9 | @vdbergh | 514 |
 | 10 | @lucasart | 501 |
 | 11 | @michiguel | 343 |
-| 12 | @Sopel97 | 300 |
-| 13 | @dependabot[bot] | 297 |
-| 14 | @actions-user | 282 |
+| 12 | @actions-user | 303 |
+| 13 | @Sopel97 | 300 |
+| 14 | @dependabot[bot] | 297 |
 | 15 | @zamar | 271 |
 | 16 | @s-0-u-l-z | 269 |
 | 17 | @jidicula | 237 |
@@ -40,9 +40,9 @@
 | 34 | @thollander | 86 |
 | 35 | @JugglerX | 81 |
 | 36 | @graphitemaster | 79 |
-| 37 | @Mk-Chan | 71 |
-| 38 | @daniel-monroe | 70 |
-| 39 | @bit10-101010 | 69 |
+| 37 | @bit10-101010 | 71 |
+| 38 | @Mk-Chan | 71 |
+| 39 | @daniel-monroe | 70 |
 | 40 | @PedanticHacker | 68 |
 | 41 | @chenrui333 | 67 |
 | 42 | @Rocky640 | 62 |
