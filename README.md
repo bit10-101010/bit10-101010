@@ -15,7 +15,7 @@
 | 9 | @vdbergh | 514 |
 | 10 | @lucasart | 501 |
 | 11 | @michiguel | 343 |
-| 12 | @actions-user | 303 |
+| 12 | @actions-user | 316 |
 | 13 | @Sopel97 | 300 |
 | 14 | @dependabot[bot] | 297 |
 | 15 | @zamar | 271 |
@@ -40,7 +40,7 @@
 | 34 | @thollander | 86 |
 | 35 | @JugglerX | 81 |
 | 36 | @graphitemaster | 79 |
-| 37 | @bit10-101010 | 71 |
+| 37 | @bit10-101010 | 76 |
 | 38 | @Mk-Chan | 71 |
 | 39 | @daniel-monroe | 70 |
 | 40 | @PedanticHacker | 68 |
