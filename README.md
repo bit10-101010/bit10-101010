@@ -14,12 +14,12 @@
 | 8 | @ballicoragroup | 712 |
 | 9 | @vdbergh | 514 |
 | 10 | @lucasart | 501 |
-| 11 | @actions-user | 397 |
+| 11 | @actions-user | 418 |
 | 12 | @michiguel | 343 |
 | 13 | @Sopel97 | 301 |
 | 14 | @dependabot[bot] | 297 |
 | 15 | @zamar | 271 |
-| 16 | @s-0-u-l-z | 269 |
+| 16 | @0x100C | 269 |
 | 17 | @jidicula | 237 |
 | 18 | @bolshakov-a | 216 |
 | 19 | @Vizvezdenec | 213 |
