@@ -12,7 +12,7 @@
 | 6 | @kimgr | 729 |
 | 7 | @ppigazzini | 718 |
 | 8 | @ballicoragroup | 712 |
-| 9 | @actions-user | 514 |
+| 9 | @actions-user | 556 |
 | 10 | @vdbergh | 514 |
 | 11 | @lucasart | 501 |
 | 12 | @aiko-chan-ai | 419 |
