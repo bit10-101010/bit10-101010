@@ -8,10 +8,10 @@
 | 2 | @mcostalba | 3369 |
 | 3 | @Disservin | 1487 |
 | 4 | @glinscott | 838 |
-| 5 | @vondele | 746 |
-| 6 | @kimgr | 729 |
-| 7 | @ppigazzini | 718 |
-| 8 | @actions-user | 712 |
+| 5 | @actions-user | 747 |
+| 6 | @vondele | 746 |
+| 7 | @kimgr | 729 |
+| 8 | @ppigazzini | 718 |
 | 9 | @ballicoragroup | 712 |
 | 10 | @vdbergh | 514 |
 | 11 | @lucasart | 501 |
