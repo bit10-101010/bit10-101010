@@ -7,8 +7,8 @@
 | 1 | @niklasf | 3631 |
 | 2 | @mcostalba | 3369 |
 | 3 | @Disservin | 1487 |
-| 4 | @glinscott | 838 |
-| 5 | @actions-user | 827 |
+| 4 | @actions-user | 857 |
+| 5 | @glinscott | 838 |
 | 6 | @vondele | 746 |
 | 7 | @kimgr | 729 |
 | 8 | @ppigazzini | 718 |
