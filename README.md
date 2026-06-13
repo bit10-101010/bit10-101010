@@ -6,7 +6,7 @@
 |------|------|--------|
 | 1 | @niklasf | 3631 |
 | 2 | @mcostalba | 3369 |
-| 3 | @actions-user | 2068 |
+| 3 | @actions-user | 2084 |
 | 4 | @Disservin | 1487 |
 | 5 | @glinscott | 838 |
 | 6 | @vondele | 746 |
