@@ -4,8 +4,8 @@
 
 | Rank | User | Commits |
 |------|------|--------|
-| 1 | @niklasf | 3631 |
-| 2 | @actions-user | 3608 |
+| 1 | @actions-user | 3655 |
+| 2 | @niklasf | 3631 |
 | 3 | @mcostalba | 3369 |
 | 4 | @Disservin | 1487 |
 | 5 | @glinscott | 838 |
