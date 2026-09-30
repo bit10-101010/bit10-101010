@@ -4,7 +4,7 @@
 
 | Rank | User | Commits |
 |------|------|--------|
-| 1 | @actions-user | 4582 |
+| 1 | @actions-user | 4593 |
 | 2 | @niklasf | 3631 |
 | 3 | @mcostalba | 3369 |
 | 4 | @Disservin | 1487 |
@@ -136,7 +136,7 @@
 | 130 | @marcussaw123 | 3 |
 | 131 | @kraktus | 3 |
 | 132 | @laniakea64 | 3 |
-| 133 | @trevorbayless | 3 |
+| 133 | @trb346 | 3 |
 | 134 | @Self-Perfection | 3 |
 | 135 | @rgerkin | 3 |
 | 136 | @thomas-daniels | 3 |
