@@ -4,7 +4,7 @@
 
 | Rank | User | Commits |
 |------|------|--------|
-| 1 | @actions-user | 4842 |
+| 1 | @actions-user | 4855 |
 | 2 | @niklasf | 3631 |
 | 3 | @mcostalba | 3369 |
 | 4 | @Disservin | 1487 |
@@ -169,7 +169,7 @@
 | 163 | @Adi-183 | 2 |
 | 164 | @87flowers | 2 |
 | 165 | @gekkehenker | 2 |
-| 166 | @dhbloo | 2 |
+| 166 | @dotb1ue | 2 |
 | 167 | @sergiovieri | 2 |
 | 168 | @UniQP | 2 |
 | 169 | @rheber | 2 |
