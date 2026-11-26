@@ -4,7 +4,7 @@
 
 | Rank | User | Commits |
 |------|------|--------|
-| 1 | @actions-user | 5136 |
+| 1 | @actions-user | 5143 |
 | 2 | @niklasf | 3631 |
 | 3 | @mcostalba | 3369 |
 | 4 | @Disservin | 1487 |
@@ -121,7 +121,7 @@
 | 115 | @zardav | 3 |
 | 116 | @MrBrain295 | 3 |
 | 117 | @mjip | 3 |
-| 118 | @Forbirdden | 3 |
+| 118 | @breaddoctorestatebirth | 3 |
 | 119 | @sitiom | 3 |
 | 120 | @ahupowerdns | 3 |
 | 121 | @drobilla | 3 |
